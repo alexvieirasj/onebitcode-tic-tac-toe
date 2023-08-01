@@ -27,9 +27,12 @@ As tecnologias/ferramentas utilizadas no projeto foram:
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas listadas abaixo:
 
 - [ ] Melhorar o layout
+- [ ] Colocar ranking de jogadores
+- [ ] Fazer opções de jogos nas opções: melhor de 1, 3 e 5
+- [ ] Jogador contra o computador ou humano
 - [ ] Gravar o número de vítorias por jogador
-- [ ] Guardar histórico de jogadores que mais venceram
 - [ ] Mostrar mensagem para reiniciar o jogo
+- [ ] Subir aplicação para jogar online
 
 ## :package: Como utilizar o projeto
 
